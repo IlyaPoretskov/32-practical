@@ -1,0 +1,25 @@
+{
+    "KinoPoisk": {
+        "Terminator 2: Judgment day": {
+            "country": "USA",
+            "date": "1991",
+            "studio": "Carolco Pictures",
+            "authors": {
+                "James Cameron": {},
+                "William Wisher Jr.": {}
+            },
+            "director": "James Cameron",
+            "producers": {
+                "James Cameron": {},
+                "Gale Anne Hurd": {},
+                "Mario Kassar": {}
+            },
+            "actors": {
+                "Arnold Schwarzenegger": "T-800",
+                "Linda Hamilton": "Sarah Connor",
+                "Edward Furlong": "John Connor",
+                "Robert Patrick Jr.": "T-1000"
+            }
+        }
+    }
+}

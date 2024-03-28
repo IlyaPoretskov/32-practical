@@ -1,0 +1,5 @@
+C:/Skb30-40/32-practical/Analyzing movie data/out/build/x64-debug/CMakeFiles/Analyzing_movie_data.dir
+C:/Skb30-40/32-practical/Analyzing movie data/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Skb30-40/32-practical/Analyzing movie data/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Skb30-40/32-practical/Analyzing movie data/out/build/x64-debug/nlohmann json/CMakeFiles/edit_cache.dir
+C:/Skb30-40/32-practical/Analyzing movie data/out/build/x64-debug/nlohmann json/CMakeFiles/rebuild_cache.dir

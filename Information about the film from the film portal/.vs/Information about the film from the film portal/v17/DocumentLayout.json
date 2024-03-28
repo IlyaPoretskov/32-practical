@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\Information about the film from the film portal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Information about the film from the film portal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\scratch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scratch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\out\\build\\x64-debug\\record.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:out\\build\\x64-debug\\record.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\Information about the film from the film portal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Information about the film from the film portal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\Info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "record.json",
-              "DocumentMoniker": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\out\\build\\x64-debug\\record.json",
-              "RelativeDocumentMoniker": "out\\build\\x64-debug\\record.json",
-              "ToolTip": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\out\\build\\x64-debug\\record.json",
-              "RelativeToolTip": "out\\build\\x64-debug\\record.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-05T17:50:54.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CMakePresets.json",
-              "DocumentMoniker": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\CMakePresets.json",
-              "RelativeDocumentMoniker": "CMakePresets.json",
-              "ToolTip": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\CMakePresets.json",
-              "RelativeToolTip": "CMakePresets.json",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-05T17:48:17.576Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Information about the film from the film portal.h",
-              "DocumentMoniker": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\Information about the film from the film portal.h",
-              "RelativeDocumentMoniker": "Information about the film from the film portal.h",
-              "ToolTip": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\Information about the film from the film portal.h",
-              "RelativeToolTip": "Information about the film from the film portal.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-05T17:48:12.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "scratch.json",
-              "DocumentMoniker": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\scratch.json",
-              "RelativeDocumentMoniker": "scratch.json",
-              "ToolTip": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\scratch.json",
-              "RelativeToolTip": "scratch.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Title": "Info.json",
+              "DocumentMoniker": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\Info.json",
+              "RelativeDocumentMoniker": "Info.json",
+              "ToolTip": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\Info.json",
+              "RelativeToolTip": "Info.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-05T17:30:51.428Z",
+              "WhenOpened": "2024-03-09T09:42:42.631Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Information about the film from the film portal.cpp",
-              "DocumentMoniker": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\Information about the film from the film portal.cpp",
-              "RelativeDocumentMoniker": "Information about the film from the film portal.cpp",
-              "ToolTip": "C:\\Skb30-40\\32-practical\\Information about the film from the film portal\\Information about the film from the film portal.cpp",
-              "RelativeToolTip": "Information about the film from the film portal.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-05T17:20:23.737Z"
             }
           ]
         }
